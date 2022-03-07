@@ -8,7 +8,7 @@
 - 💬 Ask me about Flutter.
 - 💬 I'm interested in coding and designing.
 - 📫 How to reach me **shresthasimran62@gmail.com**
-- 📄 Know about my experiences [simran/resume.pdf](simran/resume.pdf)
+- 📄 Know about my experiences [simran/resume](file:///C:/Users/Dell/Desktop/simran/resume.pdf)
 - 😄 Pronouns: she/her
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simran-stha" alt="simran-stha" /></a> </p><br>
